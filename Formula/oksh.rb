@@ -1,8 +1,8 @@
 class Oksh < Formula
   desc "Portable OpenBSD Korn Shell"
   homepage "https://github.com/ibara/oksh"
-  url "https://github.com/ibara/oksh/releases/download/20181009/oksh-20181009.tar.gz"
-  sha256 "35dbd911ca129742e5a6cc31cd91055c2c26d895f19e9bafedf5d50b222d1197"
+  url "https://github.com/ibara/oksh/releases/download/oksh-6.5/oksh-6.5.tar.gz"
+  sha256 "2adf52ab718249462a41e1172d0bfb8670731daa0618e560be58064cac23a0bd"
 
   head "https://github.com/ibara/oksh.git"
 
